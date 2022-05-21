@@ -1,1 +1,2 @@
-# Dental-Ecommerce-Frontend
+# Life-Ecommerce-
+E-commerce Web App for dentists only 
